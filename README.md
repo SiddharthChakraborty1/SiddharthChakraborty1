@@ -2,7 +2,7 @@
 
 I am Siddharth Chakraborty.
 
-an aspiring Software Engineer and Android App Developer.
+an aspiring Software Engineer and Android app developer.
 
 I have a very keen interest in new technologies.
 
