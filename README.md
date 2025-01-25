@@ -1,13 +1,35 @@
-### Hi there 👋
+### Hi there 👋  
 
-I am Siddharth Chakraborty.
+Welcome to my technical journal!
 
-an aspiring Software Engineer and Android app developer.
+I am **Siddharth Chakraborty**.  
+With 3+ years of experience in software development, I am passionate about solving problems and exploring new technologies.  
 
-I have a very keen interest in new technologies.
+---
 
-Currently I am burshing up my skills in android development.
+### Tech Stack 🚀  
+- **Backend**  
+  - Python  
+  - Django  
+  - FastAPI  
+  - Flask  
 
-Programming Languages Known - C, C++, Core Java, Kotlin Python.
+- **Frontend**  
+  - JavaScript  
+  - TypeScript  
+  - React  
 
-Operating Systems I am familiar with - Linux, Windows.
+---
+
+### Let's Collaborate 🤝  
+I’m always excited to:  
+- Work on open-source projects together.  
+- Explore innovative ideas and tackle challenging problems.  
+- Learn and grow as part of the developer community!  
+
+Feel free to reach out to me! 💌  
+
+---
+
+### Connect with Me 🌐  
+[GitHub](#) | [LinkedIn](#) | [Portfolio](#)  
