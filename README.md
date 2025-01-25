@@ -30,6 +30,3 @@ I’m always excited to:
 Feel free to reach out to me! 💌  
 
 ---
-
-### Connect with Me 🌐  
-[GitHub](#) | [LinkedIn](#) | [Portfolio](#)  
