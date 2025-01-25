@@ -21,12 +21,14 @@ With 3+ years of experience in software development, I am passionate about solvi
 
 ---
 
-### Let's Collaborate 🤝  
+### Let's Collaborate  
 I’m always excited to:  
 - Work on open-source projects together.  
 - Explore innovative ideas and tackle challenging problems.  
 - Learn and grow as part of the developer community!  
 
-Feel free to reach out to me! 💌  
+Feel free to reach out to me!
+
+siddharth.chakraborty06@gmail.com
 
 ---
